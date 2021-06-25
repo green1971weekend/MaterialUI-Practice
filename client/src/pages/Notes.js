@@ -1,9 +1,11 @@
 import React from 'react'
 
-export const Notes = () => {
+const Notes = () => {
     return (
         <div>
             Notes
         </div>
     )
 }
+
+export default Notes;
